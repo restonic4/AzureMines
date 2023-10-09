@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "azuremines",
+  "version": "${version}",
+
+  "name": "AzureMines",
+  "description": "A mod inspired by a roblox game called Azure mines",
+  "authors": [],
+  "contact": {},
+
+  "license": "MIT",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": {},
+  "depends": {
+    "fabricloader": ">=0.14.23",
+    "minecraft": ">=1.20"
+  }
+}
