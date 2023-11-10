@@ -1,0 +1,13 @@
+{
+  "itemGroup.azuremines.main": "Minas de Azur",
+  "item.azuremines.azure": "Azur",
+  "block.azuremines.azure_ore": "Mena de Azur",
+  "item.azuremines.amethyst_pickaxe": "Pico de amatista",
+  "block.azuremines.understone": "Roca profunda",
+  "sounds.azuremines.mining_facility_music": "Musica: Mining facility",
+  "sounds.azuremines.shallow_depths_music": "Musica: Shallow Depths",
+  "item.azuremines.azure_pickaxe": "Pico de azur.",
+  "sounds.azuremines.depths_of_the_mines_music": "Musica: Depths of the mines",
+  "block.azuremines.frozen_understone": "Roca profunda congelada",
+  "block.azuremines.decay_stone": "Piedra delicada"
+}

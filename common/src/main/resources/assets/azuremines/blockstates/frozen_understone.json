@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "azuremines:block/frozen_understone" }
+  }
+}

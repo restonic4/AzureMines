@@ -1,0 +1,12 @@
+{
+  "music.menu": {
+    "replace": true,
+	"sounds": [
+      {
+        "name": "music/menu/mining_facility_music",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  }
+}

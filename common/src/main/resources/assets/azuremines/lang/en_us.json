@@ -1,0 +1,13 @@
+{
+  "itemGroup.azuremines.main": "Azure mines",
+  "item.azuremines.azure": "Azure",
+  "block.azuremines.azure_ore": "Azure ore",
+  "item.azuremines.amethyst_pickaxe": "Amethyst pickaxe",
+  "block.azuremines.understone": "Understone",
+  "sounds.azuremines.mining_facility_music": "Music: Mining facility",
+  "sounds.azuremines.shallow_depths_music": "Music: Shallow Depths",
+  "item.azuremines.azure_pickaxe": "Azure pickaxe",
+  "sounds.azuremines.depths_of_the_mines_music": "Music: Depths of the mines",
+  "block.azuremines.frozen_understone": "Frozen Understone",
+  "block.azuremines.decay_stone": "Decay stone"
+}

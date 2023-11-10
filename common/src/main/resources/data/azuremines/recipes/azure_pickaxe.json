@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " AA",
+    " SA",
+    "S  "
+  ],
+  "key": {
+    "A": {
+      "item": "azuremines:azure",
+      "data": 0
+    },
+    "S": {
+      "item": "minecraft:stick",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "azuremines:azure_pickaxe",
+    "count": 1
+  }
+}

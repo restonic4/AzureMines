@@ -1,0 +1,26 @@
+{
+  "mining_facility_music": {
+    "subtitle": "sounds.azuremines.mining_facility_music",
+    "sounds": [
+      "azuremines:mining_facility_music"
+    ]
+  },
+  "shallow_depths_music": {
+    "subtitle": "sounds.azuremines.shallow_depths_music",
+    "sounds": [
+      "azuremines:shallow_depths_music"
+    ]
+  },
+  "depths_of_the_mines_music": {
+    "subtitle": "sounds.azuremines.depths_of_the_mines_music",
+    "sounds": [
+      "azuremines:depths_of_the_mines_music"
+    ]
+  },
+  "ice_cavern_music": {
+    "subtitle": "sounds.azuremines.ice_cavern_music",
+    "sounds": [
+      "azuremines:ice_cavern_music"
+    ]
+  }
+}

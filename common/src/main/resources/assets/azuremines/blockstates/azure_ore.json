@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "azuremines:block/azure_ore" }
+  }
+}
